@@ -8,7 +8,7 @@
 using namespace std;
 
 int main() {
-	int x = 100000;
+	int x = 100000; // change this number, to which the computer calculate prime factors
 	vector<vector<int>> list;
 
 	for (int i = 2; i <= x; i++) {
